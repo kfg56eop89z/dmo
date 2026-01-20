@@ -11,4 +11,4 @@ function evaluerChaine(chaine) {
 }
 
 // Exemple d'utilisation :
-evaluerChaine("10 + 2"); // Évalue une expression mathématique
+evaluerChaine("10 + 2"); // Évalue une expression mathématique 
